@@ -70,6 +70,7 @@
 /mnt/vendor/efs/camera(/.*)?                 u:object_r:camera_efs_file:s0
 /mnt/vendor/efs/prov(/.*)?                   u:object_r:dak_efs_file:s0
 /mnt/vendor/efs/prov_data(/.*)?              u:object_r:dak_efs_file:s0
+/mnt/vendor/efs/spen(/.*)?                   u:object_r:spen_efs_file:s0
 /mnt/vendor/efs/wifi(/.*)?                   u:object_r:wifi_efs_file:s0
 
 # Root folders
