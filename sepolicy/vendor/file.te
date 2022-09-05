@@ -19,6 +19,7 @@ type camera_efs_file, file_type;
 type dak_efs_file, file_type;
 type imei_efs_file, file_type;
 type sec_efs_file, file_type;
+type spen_efs_file, file_type;
 type wifi_efs_file, file_type;
 
 # Fastcharge
