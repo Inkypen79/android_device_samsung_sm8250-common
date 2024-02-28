@@ -5,6 +5,9 @@ vendor_internal_prop(vendor_gnss_psds_prop)
 vendor_internal_prop(vendor_sec_nfc_prop)
 vendor_internal_prop(vendor_nfc_prop)
 
+# Power
+vendor_internal_prop(vendor_powerhal_prop)
+
 # Secure Element
 vendor_internal_prop(vendor_sehal_prop)
 

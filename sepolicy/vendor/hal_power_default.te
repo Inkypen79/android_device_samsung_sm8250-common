@@ -6,3 +6,5 @@ allow hal_power_default { vendor_sysfs_touchscreen vendor_sysfs_touchscreen_writ
 
 allow hal_power_default vendor_sysfs_sensors:dir search;
 allow hal_power_default vendor_sysfs_sensors:file { open write };
+
+set_prop(hal_power_default, vendor_powerhal_prop)
