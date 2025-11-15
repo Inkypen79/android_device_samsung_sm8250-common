@@ -1,0 +1,1 @@
+allow vendor_hal_gatekeeper_qti vendor_gatekeeper_data_file:dir r_dir_perms;
